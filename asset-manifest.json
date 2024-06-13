@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Zenbridge-assignment/static/css/main.aec0963a.css",
+    "main.js": "/Zenbridge-assignment/static/js/main.80381900.js",
+    "static/js/453.39eb16e3.chunk.js": "/Zenbridge-assignment/static/js/453.39eb16e3.chunk.js",
+    "static/media/bg-image.png": "/Zenbridge-assignment/static/media/bg-image.469973f495fd484e29cc.png",
+    "static/media/stake-wheel.png": "/Zenbridge-assignment/static/media/stake-wheel.7bae41e09eef84bfb19f.png",
+    "static/media/Photo.png": "/Zenbridge-assignment/static/media/Photo.b7ea539ea9ac63306e72.png",
+    "static/media/G2 Badge.png": "/Zenbridge-assignment/static/media/G2 Badge.811b2431a667ff727d0b.png",
+    "index.html": "/Zenbridge-assignment/index.html",
+    "main.aec0963a.css.map": "/Zenbridge-assignment/static/css/main.aec0963a.css.map",
+    "main.80381900.js.map": "/Zenbridge-assignment/static/js/main.80381900.js.map",
+    "453.39eb16e3.chunk.js.map": "/Zenbridge-assignment/static/js/453.39eb16e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec0963a.css",
+    "static/js/main.80381900.js"
+  ]
+}
